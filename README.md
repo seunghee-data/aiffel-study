@@ -8,6 +8,7 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
     <img width="298" height="232" alt="Screenshot 2025-11-17 at 1 07 34 PM" src="https://github.com/user-attachments/assets/c3e63ba8-2c15-4886-8c18-029bef6477f5" />
+    
     리뷰: 게임이 잘 작동하는지 확인하였습니다.
 
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -18,6 +19,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     <img width="531" height="294" alt="Screenshot 2025-11-17 at 1 45 34 PM" src="https://github.com/user-attachments/assets/7980e6d7-9c09-43f2-88d7-580a838e595c" />
+    
     리뷰: for문을 통해 strike, ball에 1씩 더하는 방식이 이해되었습니다.
 
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -39,6 +41,7 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     <img width="470" height="391" alt="Screenshot 2025-11-17 at 1 49 37 PM" src="https://github.com/user-attachments/assets/c7391c20-6529-4751-bb04-c837e382dab2" />
+    
     리뷰: answer_list에 뽑은 숫자를 하나씩 더하는 방식이 뽑는 숫자의 개수가 바뀌어도 수정하기 편해 보입니다.
 
 
