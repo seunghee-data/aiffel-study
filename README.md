@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 김선우
+- 코더 : 손승희
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
 
