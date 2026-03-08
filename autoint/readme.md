@@ -16,4 +16,8 @@
 
 ## 🏃 실행 방법
 1. `python fix_weights.py` (가중치 생성)
+
 2. `streamlit run show_st.py` (서비스 실행)
+
+3. ### 🖼️ 실행 화면
+![추천시스템 결과 화면](images/result_screenshot.png)
